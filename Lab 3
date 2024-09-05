@@ -6,4 +6,14 @@ int main() {
     cout << "I love to code!" <<endl;
     cout << "For what is there to live for, if I cannot code?" <<endl;
     return 0;
+//second way
+}
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello, world! \n";
+    cout << "I love to code!\n" ;
+    cout << "For what is there to live for, if I cannot code?\n";
+    return 0;
 }
